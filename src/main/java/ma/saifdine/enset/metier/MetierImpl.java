@@ -1,7 +1,9 @@
 package ma.saifdine.enset.metier;
 
 import ma.saifdine.enset.dao.IDao;
+import org.springframework.stereotype.Service;
 
+@Service("metier")
 public class MetierImpl implements IMetier{
 
     private IDao dao;
