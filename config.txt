@@ -1,0 +1,2 @@
+dao=ma.saifdine.enset.dao.DaoImpl
+metier=ma.saifdine.enset.metier.MetierImpl
